@@ -11,55 +11,6 @@
   </ul>
 </div>
 
-<style>
-.karabiner-table {
-  border-collapse: collapse;
-  width: 100%;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
-}
-
-.karabiner-table th {
-  background:#999999;
-  color: white;
-  padding: 12px;
-  text-align: left;
-  font-weight: 600;
-}
-
-.karabiner-table td {
-  padding: 10px 12px;
-  border-bottom: 1px solid #e1e5e9;
-}
-
-/* Firefox Section - Blue Hue */
-.firefox-odd { background: linear-gradient(135deg, #e3f2fd 0%, #f1f8ff 100%); }
-.firefox-even { background: linear-gradient(135deg, #bbdefb 0%, #e3f2fd 100%); }
-
-/* WebStorm Section - Green Hue */
-.webstorm-odd { background: linear-gradient(135deg, #e8f5e8 0%, #f1f8e9 100%); }
-.webstorm-even { background: linear-gradient(135deg, #c8e6c9 0%, #e8f5e8 100%); }
-
-/* Finder Section - Orange Hue */
-.finder-odd { background: linear-gradient(135deg, #fff3e0 0%, #fef7f0 100%); }
-.finder-even { background: linear-gradient(135deg, #ffe0b2 0%, #fff3e0 100%); }
-
-/* System Section - Purple Hue */
-.system-odd { background: linear-gradient(135deg, #f3e5f5 0%, #faf2ff 100%); }
-.system-even { background: linear-gradient(135deg, #e1bee7 0%, #f3e5f5 100%); }
-
-/* Ableton Section - Red Hue */
-.ableton-odd { background: linear-gradient(135deg, #ffebee 0%, #fef7f7 100%); }
-.ableton-even { background: linear-gradient(135deg, #ffcdd2 0%, #ffebee 100%); }
-
-/* Apps Section - Cyan Hue */
-.apps-odd { background: linear-gradient(135deg, #e0f2f1 0%, #f0fdfc 100%); }
-.apps-even { background: linear-gradient(135deg, #b2dfdb 0%, #e0f2f1 100%); }
-
-/* Navigation Section - Indigo Hue */
-.navigation-odd { background: linear-gradient(135deg, #e8eaf6 0%, #f0f2ff 100%); }
-.navigation-even { background: linear-gradient(135deg, #c5cae9 0%, #e8eaf6 100%); }
-</style>
-
 <table class="karabiner-table">
 <thead>
 <tr>
